@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tarunprasath
+- 👋 Hi, I’m Arun Prasath
 - 👀 I’m interested in creating readymade framework snippets for enterprise applications
 - 🌱 I’m currently learning the about usage of cyptocurrencies in Fintech
 - 💞️ I’m looking to collaborate on new ideas and design on testing
